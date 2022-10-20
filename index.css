@@ -189,6 +189,7 @@ input.password-el {
 
 .password {
   display: flex;
+  justify-content:center;
 }
 
 #copy {
